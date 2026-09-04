@@ -1,0 +1,131 @@
+{
+  "vouchers": [
+    {
+      "code": "SAVE10",
+      "label": "Flat 10% Off",
+      "discountPercent": 10,
+      "discountType": "percent",
+      "minAmount": 2000,
+      "maxDiscount": 500,
+      "validUntil": "2026-12-31T23:59:59Z",
+      "active": true,
+      "description": "Get 10% off on orders above ₹2,000"
+    },
+    {
+      "code": "AGENT20",
+      "label": "AI Shopper Bonus",
+      "discountPercent": 20,
+      "discountType": "percent",
+      "minAmount": 3000,
+      "maxDiscount": 1000,
+      "validUntil": "2026-12-31T23:59:59Z",
+      "active": true,
+      "description": "20% off (up to ₹1,000) for AI agent-initiated purchases"
+    },
+    {
+      "code": "FLAT500",
+      "label": "₹500 Instant Cashback",
+      "discountPercent": 0,
+      "discountType": "flat",
+      "flatAmount": 500,
+      "minAmount": 4000,
+      "maxDiscount": 500,
+      "validUntil": "2026-12-31T23:59:59Z",
+      "active": true,
+      "description": "Flat ₹500 off on orders above ₹4,000"
+    },
+    {
+      "code": "WELCOME15",
+      "label": "Welcome Offer",
+      "discountPercent": 15,
+      "discountType": "percent",
+      "minAmount": 1500,
+      "maxDiscount": 750,
+      "validUntil": "2026-12-31T23:59:59Z",
+      "active": true,
+      "description": "15% off for new shoppers (up to ₹750)"
+    }
+  ],
+  "dayDeals": [
+    {
+      "productId": "prod_001",
+      "dealPrice": 3799,
+      "originalPrice": 4499,
+      "label": "Deal of the Day",
+      "badge": "HOT",
+      "savingsPercent": 16,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "active": true,
+      "highlight": "Limited-time price drop!"
+    },
+    {
+      "productId": "prod_004",
+      "dealPrice": 5999,
+      "originalPrice": 7499,
+      "label": "Flash Sale",
+      "badge": "FLASH",
+      "savingsPercent": 20,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "active": true,
+      "highlight": "Today only - 20% off premium earbuds"
+    },
+    {
+      "productId": "prod_007",
+      "dealPrice": 11999,
+      "originalPrice": 14999,
+      "label": "Weekend Special",
+      "badge": "SPECIAL",
+      "savingsPercent": 20,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "active": true,
+      "highlight": "Top-rated smartwatch at unbeatable price"
+    },
+    {
+      "productId": "prod_010",
+      "dealPrice": 2999,
+      "originalPrice": 3999,
+      "label": "Agent Pick",
+      "badge": "AI PICK",
+      "savingsPercent": 25,
+      "expiresAt": "2026-12-31T23:59:59Z",
+      "active": true,
+      "highlight": "AI agents top value recommendation"
+    }
+  ],
+  "crossSellRules": [
+    {
+      "productId": "prod_001",
+      "accessories": [
+        {
+          "accessoryId": "prod_011",
+          "reason": "Protect your headphones with a premium carry case"
+        },
+        {
+          "accessoryId": "prod_012",
+          "reason": "Pair with a portable charger for non-stop music"
+        }
+      ],
+      "bundleDiscountPercent": 10
+    },
+    {
+      "productId": "prod_004",
+      "accessories": [
+        {
+          "accessoryId": "prod_011",
+          "reason": "Keep your earbuds safe with protective storage"
+        }
+      ],
+      "bundleDiscountPercent": 8
+    },
+    {
+      "productId": "prod_007",
+      "accessories": [
+        {
+          "accessoryId": "prod_013",
+          "reason": "Add a fast charger for your new smartwatch"
+        }
+      ],
+      "bundleDiscountPercent": 12
+    }
+  ]
+}

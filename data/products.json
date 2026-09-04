@@ -1,0 +1,353 @@
+[
+  {
+    "id": "prod_001",
+    "name": "JBL Tune 760NC",
+    "category": "headphones",
+    "brand": "JBL",
+    "price": 4499,
+    "currency": "INR",
+    "description": "Over-ear wireless headphones with active noise cancellation, punchy pure bass sound, and lightweight foldable design.",
+    "features": [
+      "active noise cancellation",
+      "wireless",
+      "35 hour battery",
+      "fast charge (5 min = 2 hours)",
+      "hands-free calls"
+    ],
+    "specifications": {
+      "battery": "35 hours",
+      "connectivity": "Bluetooth 5.0",
+      "noise_cancellation": true,
+      "driver_size": "40mm",
+      "weight": "220g"
+    },
+    "stock": 14,
+    "rating": 4.4,
+    "delivery_days": 2,
+    "return_policy_days": 7
+  },
+  {
+    "id": "prod_002",
+    "name": "Sony WH-CH720N",
+    "category": "headphones",
+    "brand": "Sony",
+    "price": 7990,
+    "currency": "INR",
+    "description": "Lightweight noise-canceling headphones powered by Sony V1 Integrated Processor with multipoint pairing.",
+    "features": [
+      "dual noise sensor technology",
+      "wireless",
+      "50 hour battery",
+      "multipoint connection",
+      "360 reality audio"
+    ],
+    "specifications": {
+      "battery": "50 hours",
+      "connectivity": "Bluetooth 5.2",
+      "noise_cancellation": true,
+      "driver_size": "30mm",
+      "weight": "192g"
+    },
+    "stock": 8,
+    "rating": 4.6,
+    "delivery_days": 2,
+    "return_policy_days": 10
+  },
+  {
+    "id": "prod_003",
+    "name": "boAt Rockerz 550",
+    "category": "headphones",
+    "brand": "boAt",
+    "price": 1799,
+    "currency": "INR",
+    "description": "Ergonomic over-ear wireless headphones with 50mm dynamic drivers and plush comfort earcups.",
+    "features": [
+      "super extra bass",
+      "wireless",
+      "20 hour battery",
+      "physical noise isolation",
+      "foldable design"
+    ],
+    "specifications": {
+      "battery": "20 hours",
+      "connectivity": "Bluetooth 5.0",
+      "noise_cancellation": false,
+      "driver_size": "50mm",
+      "weight": "245g"
+    },
+    "stock": 25,
+    "rating": 4.1,
+    "delivery_days": 3,
+    "return_policy_days": 7
+  },
+  {
+    "id": "prod_004",
+    "name": "Sennheiser HD 450SE",
+    "category": "headphones",
+    "brand": "Sennheiser",
+    "price": 9990,
+    "currency": "INR",
+    "description": "Audiophile grade wireless ANC headphones supporting AAC and aptX Low Latency codecs.",
+    "features": [
+      "active noise cancellation",
+      "wireless",
+      "30 hour battery",
+      "aptx low latency support",
+      "voice assistant interaction"
+    ],
+    "specifications": {
+      "battery": "30 hours",
+      "connectivity": "Bluetooth 5.0",
+      "noise_cancellation": true,
+      "driver_size": "32mm",
+      "weight": "238g"
+    },
+    "stock": 0,
+    "rating": 4.7,
+    "delivery_days": 4,
+    "return_policy_days": 14
+  },
+  {
+    "id": "prod_005",
+    "name": "OnePlus Buds 3",
+    "category": "earbuds",
+    "brand": "OnePlus",
+    "price": 4999,
+    "currency": "INR",
+    "description": "Flagship-tier true wireless earbuds featuring dual dynamic drivers, 49dB adaptive ANC, and LHDC audio.",
+    "features": [
+      "49dB smart adaptive noise cancellation",
+      "dual dynamic drivers (10.4mm woofer + 6mm tweeter)",
+      "44 hour battery with case",
+      "spatial audio support",
+      "IP55 water resistance"
+    ],
+    "specifications": {
+      "battery": "44 hours with case",
+      "connectivity": "Bluetooth 5.3",
+      "noise_cancellation": true,
+      "driver_size": "10.4mm + 6mm",
+      "weight": "4.8g per bud"
+    },
+    "stock": 19,
+    "rating": 4.5,
+    "delivery_days": 2,
+    "return_policy_days": 7
+  },
+  {
+    "id": "prod_006",
+    "name": "Realme Buds Air 5 Pro",
+    "category": "earbuds",
+    "brand": "Realme",
+    "price": 4499,
+    "currency": "INR",
+    "description": "50dB active noise cancelling earbuds with LDAC Hi-Res audio certification and 360-degree spatial effects.",
+    "features": [
+      "50dB active noise cancellation",
+      "LDAC hi-res audio",
+      "40 hour battery life",
+      "40ms ultra-low latency",
+      "dual-device pairing"
+    ],
+    "specifications": {
+      "battery": "40 hours with case",
+      "connectivity": "Bluetooth 5.3",
+      "noise_cancellation": true,
+      "driver_size": "11mm bass driver",
+      "weight": "4.7g per bud"
+    },
+    "stock": 12,
+    "rating": 4.4,
+    "delivery_days": 2,
+    "return_policy_days": 7
+  },
+  {
+    "id": "prod_007",
+    "name": "Noise Buds VS102",
+    "category": "earbuds",
+    "brand": "Noise",
+    "price": 1299,
+    "currency": "INR",
+    "description": "Pocket-friendly everyday earbuds with Instacharge technology and quad mic ENC for calls.",
+    "features": [
+      "environmental noise cancellation (ENC)",
+      "50 hour playtime",
+      "Instacharge (10 min = 120 min)",
+      "11mm speaker driver",
+      "IPX5 water resistance"
+    ],
+    "specifications": {
+      "battery": "50 hours with case",
+      "connectivity": "Bluetooth 5.3",
+      "noise_cancellation": false,
+      "driver_size": "11mm",
+      "weight": "4.2g per bud"
+    },
+    "stock": 30,
+    "rating": 4.2,
+    "delivery_days": 3,
+    "return_policy_days": 7
+  },
+  {
+    "id": "prod_008",
+    "name": "Amazfit GTR 4",
+    "category": "smartwatches",
+    "brand": "Amazfit",
+    "price": 16999,
+    "currency": "INR",
+    "description": "Premium round smartwatch with dual-band circular-polarized GPS, AMOLED display, and 14-day battery.",
+    "features": [
+      "1.43 inch HD AMOLED display",
+      "dual-band GPS navigation",
+      "14 day battery life",
+      "24/7 heart rate and SpO2 tracking",
+      "Bluetooth phone calls"
+    ],
+    "specifications": {
+      "display": "1.43-inch AMOLED (466x466)",
+      "battery": "14 days",
+      "connectivity": "Bluetooth 5.0 + Wi-Fi 2.4GHz",
+      "water_resistance": "5 ATM",
+      "sensors": "BioTracker 4.0 PPG, GPS"
+    },
+    "stock": 6,
+    "rating": 4.6,
+    "delivery_days": 2,
+    "return_policy_days": 10
+  },
+  {
+    "id": "prod_009",
+    "name": "Fire-Boltt Invincible Plus",
+    "category": "smartwatches",
+    "brand": "Fire-Boltt",
+    "price": 4499,
+    "currency": "INR",
+    "description": "Feature-packed fitness smartwatch with 1.43-inch AMOLED screen, 4GB internal storage for music, and TWS connectivity.",
+    "features": [
+      "1.43 inch AMOLED display (always-on)",
+      "4GB local music storage",
+      "Bluetooth calling with microphone and speaker",
+      "300 sports modes",
+      "7 day battery backup"
+    ],
+    "specifications": {
+      "display": "1.43-inch AMOLED (460x460)",
+      "battery": "7 days",
+      "connectivity": "Bluetooth 5.2",
+      "water_resistance": "IP67",
+      "sensors": "Optical Heart Rate, SpO2, Pedometer"
+    },
+    "stock": 15,
+    "rating": 4.3,
+    "delivery_days": 2,
+    "return_policy_days": 7
+  },
+  {
+    "id": "prod_010",
+    "name": "JBL Flip 6",
+    "category": "speakers",
+    "brand": "JBL",
+    "price": 9999,
+    "currency": "INR",
+    "description": "Portable 2-way waterproof Bluetooth speaker delivering bold, booming JBL Original Pro Sound.",
+    "features": [
+      "IP67 waterproof and dustproof",
+      "12 hour battery playtime",
+      "PartyBoost stereo pairing",
+      "racetrack-shaped woofer with separate tweeter",
+      "rugged rubber housing"
+    ],
+    "specifications": {
+      "power_output": "30W RMS (20W woofer + 10W tweeter)",
+      "battery": "12 hours (4800mAh)",
+      "connectivity": "Bluetooth 5.1",
+      "frequency_response": "63Hz - 20kHz",
+      "weight": "550g"
+    },
+    "stock": 10,
+    "rating": 4.7,
+    "delivery_days": 2,
+    "return_policy_days": 14
+  },
+  {
+    "id": "prod_011",
+    "name": "boAt Stone 352",
+    "category": "speakers",
+    "brand": "boAt",
+    "price": 1699,
+    "currency": "INR",
+    "description": "Compact cylindrical outdoor wireless speaker with 10W stereo sound and Type-C charging.",
+    "features": [
+      "10W RMS immersive sound",
+      "IPX7 water resistance",
+      "12 hour playtime",
+      "TWS mode to pair 2 speakers",
+      "multi-mode playback (BT, AUX, TF Card)"
+    ],
+    "specifications": {
+      "power_output": "10W RMS",
+      "battery": "12 hours (2200mAh)",
+      "connectivity": "Bluetooth 5.0",
+      "frequency_response": "100Hz - 20kHz",
+      "weight": "420g"
+    },
+    "stock": 22,
+    "rating": 4.3,
+    "delivery_days": 3,
+    "return_policy_days": 7
+  },
+  {
+    "id": "prod_012",
+    "name": "Spigen Rugged Armor Case",
+    "category": "phone accessories",
+    "brand": "Spigen",
+    "price": 1299,
+    "currency": "INR",
+    "description": "Carbon fiber accented flexible TPU case engineered with Air Cushion Technology for military-grade drop defense.",
+    "features": [
+      "air cushion technology drop protection",
+      "resilient TPU shell with carbon fiber texture",
+      "raised bezels protect screen and camera lens",
+      "tactile buttons with responsive feedback",
+      "wireless charging compatible"
+    ],
+    "specifications": {
+      "material": "Thermoplastic Polyurethane (TPU)",
+      "drop_standard": "Mil-Grade MIL-STD 810G-516.6",
+      "finish": "Matte carbon fiber accent",
+      "thickness": "1.8mm",
+      "weight": "35g"
+    },
+    "stock": 40,
+    "rating": 4.8,
+    "delivery_days": 2,
+    "return_policy_days": 15
+  },
+  {
+    "id": "prod_013",
+    "name": "Anker 65W GaN Fast Charger",
+    "category": "phone accessories",
+    "brand": "Anker",
+    "price": 2999,
+    "currency": "INR",
+    "description": "Ultra-compact 3-port high-speed GaN II wall charger for phones, tablets, and USB-C laptops.",
+    "features": [
+      "65W high-speed GaN II fast charging",
+      "3 ports (2x USB-C + 1x USB-A)",
+      "PowerIQ 3.0 dynamic power distribution",
+      "ActiveShield 2.0 temperature sensor protection",
+      "53% smaller than standard 65W chargers"
+    ],
+    "specifications": {
+      "total_wattage": "65W",
+      "ports": "2x USB-C, 1x USB-A",
+      "dimensions": "38.2 x 29.1 x 66.1 mm",
+      "weight": "112g",
+      "input": "100-240V ~ 50/60Hz"
+    },
+    "stock": 18,
+    "rating": 4.7,
+    "delivery_days": 2,
+    "return_policy_days": 10
+  }
+]
